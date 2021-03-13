@@ -308,6 +308,8 @@ color: #A71717;
             	width: 1087px;
             	margin: 0 auto;
             	border:1px groove black;
+		    position: relative;
+		    bottom:1px;
 
             }
             .footerbox a{
