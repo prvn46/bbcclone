@@ -1,0 +1,389 @@
+body{
+	margin:0px;
+	margin-top: 1px;
+
+	padding: 0;
+	background-color:#FFF1F1 ;
+	
+}
+
+
+#topsection{
+	width:1087px;
+	margin:0 auto;
+	height: 60px;
+
+  background-color: rgb(0,0,0);
+}
+#bbclogo{ 
+	
+
+	
+	float:left;
+margin-right: 8px;
+}
+#bbclogoimg{
+height:35px;
+margin: 12px 8px 12px 18px;
+	
+
+}
+#sign{
+	
+	float: left;
+height:70%;
+width: 65%;
+margin: 8px 8px 12px 12px;
+
+}
+#sign1{
+	
+	height: 100%;
+	float: left;
+	color: white;
+	
+
+
+}
+
+.topalign{
+	float:left;
+	border-left: 1px solid #cccc;
+	
+}
+.topmenue
+{
+	font-weight: bold;
+	font-size:15px;
+	padding:19px 20px;
+	color:white;
+	height:22px;
+	    font-family: Arial,Helvetica,freesans,sans-serif;
+}
+#morearrow{
+	width:20px;
+margin:0px 5px 0px 7px;
+
+height:60px;
+float: left;
+}
+#search {
+	height: 40px
+	width:10px;
+	padding: 2px;
+	background-color: white;
+	border:none;
+	font-weight: bold;
+	font-size: 9px;
+	float: left;
+	color: #000000;
+
+}
+#magnify{
+	width:18px;
+	height: 14px;
+}
+
+.clear{
+	clear: both;
+}
+.newsbar {
+	width: 1087px;
+	height:90px;
+	background-color: #BB181D;
+margin: 0 auto;
+} 
+	
+
+
+
+ 
+h1{ font-family: Helvetica,Arial,freesans,sans-serif;
+	font-size: 40px;
+	font-weight: normal;
+	color: white;
+	padding: 10px 5px 4px 18px;
+margin-top: 0;
+float: left;
+}
+.findlink{
+	font-size: 20px;
+	 float:right;
+margin:16px 10px 5px 0px;
+	padding:3px 5px 6px 10px;
+	border:1px solid #CC3B3E;
+	height: 23px;
+
+
+}
+.findlink img{
+	height:23px 
+	
+}
+
+.findlink a {
+	color: white;
+	text-decoration: none;
+}
+.findlink a:hover{
+	color: black;
+	text-decoration: underline;
+}
+.menubar2-container{
+background-color: #A71717;
+width:1087px;
+margin: 0 auto;
+height:40px;
+
+
+
+}
+.menubar2 a {
+text-decoration: none;
+color: white;
+position: relative;
+top:6px;
+font-weight: bold;
+font-size:15px;
+font-family: Helvetica,Arial,freesans,sans-serif;
+padding: 4px 12px 10px 18px;
+border-right: 1px solid #BB4545;
+}
+.menubar2 a:hover {
+	color:black;
+	text-decoration: underline;
+	border-bottom:8px solid #FFF1F1;
+}
+.noborder{
+	border:none !important;
+}
+
+#page-container
+{
+	width:1087px;
+	margin: 0 auto;
+
+
+
+
+}
+h2{
+font-weight: normal;
+font-size: 20px;
+border-bottom: 3px solid #BA191D; 	
+width:103px;
+}
+h3 a{
+	font-size: 30px;
+	font-weight: bold;
+	color:black;
+	text-decoration: none;
+}
+h3 a:hover{
+	color:#1367A9;
+
+}
+
+.subarticle{
+	width: 300px;
+	color: rgba(90,90,90);
+	font-size: 20px;
+	padding: 4px;
+float:left;
+
+
+
+}
+.subarticle img{
+
+	height:20px;
+	position: relative;
+	top:3px;
+}
+.subarticle a{
+	color:#A71717;
+	text-decoration: none;
+}
+.subarticle a:hover
+{
+	color: blue;
+}
+ .article-container{
+	width:750px;
+	height:300px;
+	border-right: 1px solid #cccccc;
+	margin-bottom: 30px
+float: left;
+}
+.pic{
+	width: 325px;  padding:10px; height:200px;
+
+	position: relative;
+	bottom: 5px;
+	margin-left: 10px;
+	
+}
+.arhr{
+	border-top:1px solid red;
+	
+	width: 50px;
+}
+.clock{height:20px;
+	position: relative;
+	top:3px;
+
+}
+   
+            #watchlist {
+                
+                margin:5px;
+                width:322px;
+                float:right;
+
+            }
+            
+            h4 {
+                
+                font-weight: normal;
+                font-size:30px;
+                
+            }
+            
+            .sidebarimg {
+                
+                float:left;
+                width:150px;
+                margin-right:2px;
+                height:90px;
+                
+            }
+            p a{
+            	color: black;
+            	text-decoration: none;
+            	font-size:16px;
+            	font-weight: 800;
+            } 
+              p a:hover{
+            	color:#1367A9; 
+            	text-decoration: none;
+            	font-size:17px;
+            	font-weight: 800;
+            } 
+            
+            .topic-link  {
+color: #A71717;
+
+	text-decoration: none;
+}
+.topic-link:hover
+{
+	color: blue;
+}
+
+
+            .sidewriting {
+                
+               
+                position:relative;
+                top:-18px;
+                 float:right;
+                width:150px;
+            }
+            
+            .no-border {
+                
+                border-left:none;
+                padding:0;
+            }
+            
+            .border-right {
+                
+                border-right: 1px solid #CCCCCC;
+                
+            }
+
+            .footer-container{
+            	background-color: #4C4C4C;
+            	height: 220px;
+            	width: 1087px;
+            	margin: 0 auto;
+            	border:1px groove black;
+
+            }
+            .footerbox a{
+            	background-color: #4C4C4C;
+            	height: 70px;
+            	width: 1087px;
+            	margin: 10px 70px 40px 10px;
+            	font-weight: 700;
+            	font-size: 13px;
+            	color: white;
+            	text-decoration: none;
+            	font-family: Helvetica,Arial,freesans,sans-serif;
+				}
+
+				#heading{
+
+            	
+            	width: 250px;
+            	margin: 20px 10px 20px 10px;
+            	padding: 10px;
+
+            	font-weight: 700;
+            	font-size: 22px;
+            	color: white;
+            	text-decoration: none;
+            	font-family: Helvetica,Arial,freesans,sans-serif;
+				}
+
+
+            .subfoot{
+            	width: 140px;
+            	float: left;
+            	margin:0px 30px 0px 10px;
+            	border-right: 1px groove #F2F2F2;
+            	height:20px;
+            	padding:5px 0px;
+
+
+            }
+            #fhr{
+            	width:1048px;
+            	color: #F2F2F2;
+            position: relative;
+            top:10px;
+
+            }
+
+            .subfoot2 a{
+            	float: left;
+            	text-decoration: none;
+            	font-size: 13px;
+            	margin:0px 10px;
+            	padding-top:10px;
+            	color:#F2F2F2 ;
+            	font-weight: normal;
+            	font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
+            }
+
+            .subfoot2 a:hover{
+            
+            	float: left;
+            	text-decoration: none;
+            	
+            	margin:0px 10px;
+            	
+            	color:#F2F2F2 ;
+            	text-decoration: underline;
+            
+            	
+           
+            }
+            #copyrights{
+            	font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
+           font-size: 13px;
+            	margin:0px 10px;
+            	padding-top:20px;
+            	color:#F2F2F2 ;
+            	font-weight: bold;
+            }
